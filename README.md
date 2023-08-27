@@ -1,5 +1,5 @@
 # ML-Data-analysis-thesis
-Jupyter notebooks, data and thesis made for my Master Degree in Artificial Intelligence
+Jupyter notebooks, code, data and thesis made for my Master Degree in Artificial Intelligence
 
 ## Overview
 The thesis aims to conduct a data analysis regarding cryptocurrency exchanges using statistical
